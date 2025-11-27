@@ -7,8 +7,8 @@ import Homescreen from "./Components/Homescreen";
 import About from "./Pages/About";
 import Menu from "./Pages/Menu";
 import PrivateDining from "./Pages/PrivateDining";
-import Reservation from "./pages/Reservation";
-import Contact from "./pages/Contact";
+import Reservation from "./Pages/Reservation";
+import Contact from "./Pages/Contact";
 import Apply from "./Pages/Apply";
 
 function App() {
