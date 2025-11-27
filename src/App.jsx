@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Header from "./components/Header";
+import Header from "./Components/Header";
 import Footer from "./Components/Footer";
 import Homescreen from "./Components/Homescreen";
 
@@ -9,7 +9,7 @@ import Menu from "./Pages/Menu";
 import PrivateDining from "./Pages/PrivateDining";
 import Reservation from "./pages/Reservation";
 import Contact from "./pages/Contact";
-import Apply from "./pages/Apply";
+import Apply from "./Pages/Apply";
 
 function App() {
   return (
